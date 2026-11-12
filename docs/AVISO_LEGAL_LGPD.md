@@ -21,3 +21,8 @@ As plataformas públicas de IA (como as versões gratuitas do ChatGPT, Gemini e 
 ## 3. Isenção de Responsabilidade
 
 Esta skill é um prompt de sistema educacional e open-source. O criador deste repositório não tem acesso, não coleta e não armazena nenhuma informação enviada pelos usuários às plataformas de IA. A responsabilidade pelo tratamento dos dados enviados é da empresa provedora do LLM e do próprio usuário.
+
+---
+
+_Documentação integrante da skill **ats-resume-optimizer**._
+_Desenvolvida originalmente por [Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/) sob licença CC BY-NC-SA 4.0._

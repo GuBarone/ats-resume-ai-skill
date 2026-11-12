@@ -24,3 +24,8 @@ Algoritmos de IA cruzam a requisição da vaga (Job Description) com o topo do s
 ### 5. Verbos de Ação e Resultados
 
 IAs são treinadas para identificar o impacto que você causou, não apenas suas obrigações. A skill reescreve experiências inserindo verbos de ação proativos ("Desenvolveu", "Otimizou") voltados a resultados.
+
+---
+
+_Documentação integrante da skill **ats-resume-optimizer**._
+_Desenvolvida originalmente por [Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/) sob licença CC BY-NC-SA 4.0._

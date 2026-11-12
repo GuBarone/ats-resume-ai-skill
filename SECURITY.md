@@ -26,3 +26,8 @@ Se você encontrar um problema que se enquadre no escopo acima, **NÃO abra uma 
 ## ✅ Versões Suportadas
 
 Apenas a versão mais recente presente na branch `main` do arquivo `SKILL.md` recebe suporte e atualizações de segurança.
+
+---
+
+_Política de segurança integrante da skill **ats-resume-optimizer**._
+_Desenvolvida originalmente por [Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/) sob licença CC BY-NC-SA 4.0._

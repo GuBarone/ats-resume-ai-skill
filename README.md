@@ -33,6 +33,11 @@ Empresas modernas utilizam softwares de triagem que leem currículos em busca de
 - [`docs/BOAS_PRATICAS_ATS.md`](docs/BOAS_PRATICAS_ATS.md): Documentação técnica sobre parsers ATS e as regras aplicadas.
 - [`docs/AVISO_LEGAL_LGPD.md`](docs/AVISO_LEGAL_LGPD.md): Termos de uso, privacidade e proteção de dados sensíveis (LGPD/GDPR).
 
+## 👨‍💻 Autoria e Créditos
+
+Este projeto foi idealizado, desenvolvido e é mantido por **[Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/)**.
+Se essa skill otimizou o seu currículo e te ajudou a conseguir uma entrevista, conecte-se comigo no LinkedIn e compartilhe sua conquista!
+
 ## ⚖️ Licença e Contribuições
 
 Sinta-se à vontade para abrir _issues_ ou enviar _pull requests_ com sugestões. Este projeto está sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**, protegendo os direitos de uso do autor original e proibindo a monetização ou uso comercial de terceiros.
