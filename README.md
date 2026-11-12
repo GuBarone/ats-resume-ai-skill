@@ -25,10 +25,13 @@ Empresas modernas utilizam softwares de triagem que leem currículos em busca de
 
 ## 🗂️ Estrutura do Repositório
 
-- [`SKILL.md`](SKILL.md): O código-fonte do prompt para ser injetado na IA.
-- [`docs/BOAS_PRATICAS_ATS.md`](docs/BOAS_PRATICAS_ATS.md): Documentação técnica de como os parsers funcionam e as regras aplicadas.
-- [`docs/AVISO_LEGAL_LGPD.md`](docs/AVISO_LEGAL_LGPD.md): Termos de uso, privacidade e proteção de dados sensíveis.
+- [`SKILL.md`](SKILL.md): O código-fonte do prompt principal (System Prompt) para ser injetado na IA.
+- [`README.md`](README.md): Documentação principal e vitrine do projeto.
+- [`SECURITY.md`](SECURITY.md): Política de segurança, privacidade e mitigação de vulnerabilidades em prompts.
+- [`LICENSE`](LICENSE): Licença Creative Commons (CC BY-NC-SA 4.0) protegendo contra uso comercial.
+- [`docs/BOAS_PRATICAS_ATS.md`](docs/BOAS_PRATICAS_ATS.md): Documentação técnica sobre parsers ATS e as regras aplicadas.
+- [`docs/AVISO_LEGAL_LGPD.md`](docs/AVISO_LEGAL_LGPD.md): Termos de uso, privacidade e proteção de dados sensíveis (LGPD/GDPR).
 
 ## ⚖️ Licença e Contribuições
 
-Sinta-se à vontade para abrir _issues_ ou enviar _pull requests_ com sugestões. Este projeto está sob a licença [INSERIR NOME DA LICENÇA AQUI, ex: GNU GPLv3], protegendo os direitos de uso e garantindo que permaneça open-source.
+Sinta-se à vontade para abrir _issues_ ou enviar _pull requests_ com sugestões. Este projeto está sob a licença **Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)**, protegendo os direitos de uso do autor original e proibindo a monetização ou uso comercial de terceiros.
