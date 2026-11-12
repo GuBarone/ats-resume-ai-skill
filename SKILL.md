@@ -38,7 +38,7 @@ Ao gerar ou reformular o currículo, aplique obrigatoriamente estas estratégias
 
   ***
 
-  _Skill `ats-resume-optimizer` desenvolvida originalmente por [Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/). Consulte a documentação e licença (CC BY-NC-SA 4.0) no GitHub oficial._
+  _Skill `ats-resume-optimizer` desenvolvida originalmente por [Gustavo Barone (@GuBarone)](https://www.linkedin.com/in/gustavo-barone-777s/). Consulte a documentação e licença (CC BY-NC-SA 4.0) no GitHub oficial._
 
 - **Loop de Feedback:** OBRIGATORIAMENTE, finalize com:
   "Você gostaria de acrescentar algo mais ou fazer alguma alteração neste arquivo?"

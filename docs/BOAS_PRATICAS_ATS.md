@@ -28,4 +28,4 @@ IAs são treinadas para identificar o impacto que você causou, não apenas suas
 ---
 
 _Documentação integrante da skill **ats-resume-optimizer**._
-_Desenvolvida originalmente por [Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/) sob licença CC BY-NC-SA 4.0._
+_Desenvolvida originalmente por [Gustavo Barone (@GuBarone)](https://www.linkedin.com/in/gustavo-barone-777s/) sob licença CC BY-NC-SA 4.0._

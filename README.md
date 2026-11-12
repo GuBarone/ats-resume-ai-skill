@@ -35,7 +35,7 @@ Empresas modernas utilizam softwares de triagem que leem currículos em busca de
 
 ## 👨‍💻 Autoria e Créditos
 
-Este projeto foi idealizado, desenvolvido e é mantido por **[Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/)**.
+Este projeto foi idealizado, desenvolvido e é mantido por **[Gustavo Barone (@GuBarone)](https://www.linkedin.com/in/gustavo-barone-777s/)**.
 Se essa skill otimizou o seu currículo e te ajudou a conseguir uma entrevista, conecte-se comigo no LinkedIn e compartilhe sua conquista!
 
 ## ⚖️ Licença e Contribuições

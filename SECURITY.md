@@ -30,4 +30,4 @@ Apenas a versão mais recente presente na branch `main` do arquivo `SKILL.md` re
 ---
 
 _Política de segurança integrante da skill **ats-resume-optimizer**._
-_Desenvolvida originalmente por [Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/) sob licença CC BY-NC-SA 4.0._
+_Desenvolvida originalmente por [Gustavo Barone (@GuBarone)](https://www.linkedin.com/in/gustavo-barone-777s/) sob licença CC BY-NC-SA 4.0._
