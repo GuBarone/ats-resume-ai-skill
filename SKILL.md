@@ -34,5 +34,11 @@ Ao gerar ou reformular o currículo, aplique obrigatoriamente estas estratégias
 - **Formato Visual (Chat):** Apresente o currículo estruturado em Markdown no corpo do chat para aprovação.
 - **Exportação OBRIGATÓRIA em DOCX:** Utilize suas ferramentas de código/geração para criar e disponibilizar um arquivo `.docx`. O documento deve ter tipografia simples (Arial/Calibri), preto e branco, tamanho de fonte adequado (10-12) e margens padrão.
 - **Nota Estratégica e Tokens:** Adicione uma nota muito breve (máx 3 linhas) explicando as palavras-chave incluídas. Seja direto para economizar tokens do modelo.
+- **Rodapé de Autoria:** OBRIGATORIAMENTE, finalize o arquivo Markdown (mas não o DOCX gerado) com o seguinte rodapé, separando do texto anterior com uma linha horizontal (`---`):
+
+  ***
+
+  _Skill `ats-resume-optimizer` desenvolvida originalmente por [Gustavo Pinheiro Barone](https://www.linkedin.com/in/gustavo-barone-777s/). Consulte a documentação e licença (CC BY-NC-SA 4.0) no GitHub oficial._
+
 - **Loop de Feedback:** OBRIGATORIAMENTE, finalize com:
   "Você gostaria de acrescentar algo mais ou fazer alguma alteração neste arquivo?"
